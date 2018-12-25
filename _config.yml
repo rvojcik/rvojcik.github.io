@@ -1,0 +1,26 @@
+# Site settings
+title: Robert Vojcik
+email: robert@vojcik.net
+url: https://vojcik.net
+description: "This is personal page where I concentrate my projects, contacts, blogs and other things from my life and career."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+# Footer settings
+footer: Robert Vojcik
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/RobertVojcik
+  - title: linkedin
+    url: https://www.linkedin.com/in/robertvojcik/
+  - title: github
+    url: https://github.com/rvojcik
+
+# Build settings
+markdown: kramdown
+permalink: pretty
