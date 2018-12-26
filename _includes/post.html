@@ -1,10 +1,10 @@
-<div class="post main-title">
+<section class="container post main-title">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
-</div>
+</section>
 
-<div class="related-posts">
+<section class="container related-posts">
   <h3>Related Posts</h3>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
@@ -16,5 +16,5 @@
       </li>
     {% endfor %}
   </ul>
-</div>
+</section>
     
