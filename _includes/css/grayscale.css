@@ -71,6 +71,10 @@ pre {
     border-radius: 4px;
 }
 
+nobr {
+    color: #000000;
+}
+
 .post {
     padding: 100px 0;
 }
