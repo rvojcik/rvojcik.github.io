@@ -57,6 +57,25 @@ a:focus {
     color: #11505d;
 }
 
+pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    color: #cecece;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #0e0e0e;
+    border: 1px solid #404040;
+    border-radius: 4px;
+}
+
+.post {
+    width: 650px;
+    
+}
+
 .light {
     font-weight: 400;
 }
@@ -248,20 +267,16 @@ a:focus {
     }
 }
 
+.main-title {
+    padding-top: 95px;
+    padding-left: 70px;
+}
+
 .content-section {
     padding-top: 100px;
 }
-
-.download-section {
-    width: 100%;
-    padding: 50px 0;
-    color: #fff;
-    background: url(/img/downloads-bg.jpg) no-repeat center center scroll;
-    background-color: {{ site.color.primary-dark }};
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
+.blog-section {
+    padding-top: 50px;
 }
 
 #map {
