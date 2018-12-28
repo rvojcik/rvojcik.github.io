@@ -52,4 +52,4 @@ Enjoy
 
 Sample Grafana Dashboard
 
-![img2](/wp-content/uploads/2017/12/d8e37ef1-c481-4a6e-bdc1-7b5af119ccf6-e1512314347432.jpg)
+[<img class="aligncenter wp-image-845 size-thumbnail" src="/wp-content/uploads/2017/12/d8e37ef1-c481-4a6e-bdc1-7b5af119ccf6-e1512314347432-150x150.jpg" alt="" width="150" height="150" />](/wp-content/uploads/2017/12/d8e37ef1-c481-4a6e-bdc1-7b5af119ccf6-e1512314347432.jpg)
