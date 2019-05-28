@@ -4,9 +4,16 @@
     {% for post in site.posts %}
     <section class="container blog-section ">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2">
+            <div class="col-lg-9 col-lg-offset-1">
              <h2><a href="{{post.url}}">{{post.title}}</a></h2>
-             <i>{{post.date | date_to_string }}</i>
+             <i>{{post.date | date_to_string }} </i>
+                <span> [
+                  {% for tag in post.categories %}
+                    {% capture tag_name %}{{ tag }}{% endcapture %}
+                    <a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+                  {% endfor %}
+                ]</span>
+
              <p>{{post.excerpt}}</p>
              
             </div>
