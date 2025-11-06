@@ -14,8 +14,6 @@ footer: Robert Vojcik
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/RobertVojcik
   - title: linkedin
     url: https://www.linkedin.com/in/robertvojcik/
   - title: github
