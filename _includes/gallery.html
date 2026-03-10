@@ -1,0 +1,11 @@
+{% assign imgs = include.images | split: "," %}
+<div class="post-gallery">
+  {% for img in imgs %}
+    {% assign parts = img | split: "|" %}
+    {% assign src = parts[0] | strip %}
+    {% assign caption = parts[1] | strip | default: "" %}
+    <a href="{{ src }}" class="glightbox" data-gallery="{{ include.gallery | default: 'gallery' }}" data-description="{{ caption }}">
+      <img src="{{ src }}" alt="{{ caption }}">
+    </a>
+  {% endfor %}
+</div>
