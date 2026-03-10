@@ -20,11 +20,11 @@ Building your own network storage (NAS) doesn’t have to be expensive or compli
 
 I have wrote whole series on [root.cz](https://www.root.cz/serialy/stavime-vlastni-nas/) online magazine.
 
-* [S1: HW and Operating System](https://www.root.cz/clanky/stavime-vlastni-nas-vyber-hardwaru-a-volba-operacniho-systemu/) — [English version](/building-your-nas-hardware-and-os/)
-* [S2: Custom Case & Data Migration](https://www.root.cz/clanky/stavime-vlastni-nas-vyroba-skrine-a-migrace-dat-na-uloziste/) — [English version](/building-your-nas-case-and-migration/)
-* [S3: Configuration of services](https://www.root.cz/clanky/stavime-vlastni-nas-konfigurace-sluzeb-na-sitovem-ulozisti/) — [English version](/building-your-nas-services/)
-* [S4: NAS monitoring](https://www.root.cz/clanky/stavime-vlastni-nas-monitoring-naseho-sitoveho-uloziste/) — [English version](/building-your-nas-monitoring/)
-* [S5: NAS Basic Security & Firewall](https://www.root.cz/clanky/stavime-vlastni-nas-bezpecnost-ochrana-a-firewall/) — [English version](/building-your-nas-security/)
+* [S1: HW and Operating System](/building-your-nas-hardware-and-os/) - [Czech version](https://www.root.cz/clanky/stavime-vlastni-nas-vyber-hardwaru-a-volba-operacniho-systemu/)
+* [S2: Custom Case & Data Migration](/building-your-nas-case-and-migration/) - [Czech version](https://www.root.cz/clanky/stavime-vlastni-nas-vyroba-skrine-a-migrace-dat-na-uloziste/)
+* [S3: Configuration of services](/building-your-nas-services/) - [Czech version](https://www.root.cz/clanky/stavime-vlastni-nas-konfigurace-sluzeb-na-sitovem-ulozisti/)
+* [S4: NAS monitoring](/building-your-nas-monitoring/) - [Czech version](https://www.root.cz/clanky/stavime-vlastni-nas-monitoring-naseho-sitoveho-uloziste/)
+* [S5: NAS Basic Security & Firewall](/building-your-nas-security/) - [Czech version](https://www.root.cz/clanky/stavime-vlastni-nas-bezpecnost-ochrana-a-firewall/)
 
 ---
 
