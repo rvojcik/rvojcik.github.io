@@ -274,7 +274,7 @@ a:hover .highligher-rouge {
     content: '';
     position: absolute;
     top: 0; left: 0; right: 0; bottom: 0;
-    background: rgba(6, 8, 6, 0.72);
+    background: rgba(6, 8, 6, 0.45);
     z-index: 1;
 }
 
